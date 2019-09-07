@@ -1,4 +1,0 @@
-[{<<"erlmqtt">>,
-  {git,"https://github.com/yuejw/erlmqtt.git",
-       {ref,"72675a8ee2aa5c119173f9b5589aaf6386f74759"}},
-  0}].
